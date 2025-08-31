@@ -17,6 +17,6 @@
 📫 Reach me at: **rameshkelavath5@gmail.com**  
 
 🔗 Connect with me: <a href="https://www.linkedin.com/in/kelavath-ramesh-583255151/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="fill:#0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
