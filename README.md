@@ -1,16 +1,19 @@
-## Hi there 👋
+- 👋 Hi, I'm Ramesh Kelavath  
 
-<!--
-**RameshKelavath/RameshKelavath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 MSc Data Science Student @ University of Hertfordshire, UK  
 
-Here are some ideas to get you started:
+- 💼 Ex-Associate Software Engineer @ Accenture | Microsoft Certified: Azure AI-900  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Aspiring **Machine Learning Engineer | Data Scientist | Data Engineer**  
+
+- 🛠️ Skilled in **Python | SQL | Statistics | Machine Learning | Deep Learning | Time Series Forecasting**  
+
+- 👀 Check out my **[Data Portfolio](https://yourusername.github.io/)** — explore my projects, skills, and contact info  
+
+- 🔍 Open to collaborations in **Data Science & Machine Learning** and always eager to learn new technologies  
+
+- ⚡ Passionate about building data-driven solutions, from pipelines to predictive models  
+
+📫 Reach me at: **rameshkelavath5@gmail.com**  
+
+🔗 Connect with me: 
