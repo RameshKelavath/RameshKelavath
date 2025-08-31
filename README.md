@@ -8,7 +8,7 @@
 
 - 🛠️ Skilled in **Python | SQL | Statistics | Machine Learning | Deep Learning | Time Series Forecasting**  
 
-- 👀 Check out my **[Data Portfolio](https://yourusername.github.io/)** — explore my projects, skills, and contact info  
+- 👀 Check out my **[Data Portfolio](https://rameshkelavath.github.io/)** — explore my projects, skills, and contact info  
 
 - 🔍 Open to collaborations in **Data Science & Machine Learning** and always eager to learn new technologies  
 
