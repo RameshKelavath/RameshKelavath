@@ -16,4 +16,7 @@
 
 📫 Reach me at: **rameshkelavath5@gmail.com**  
 
-🔗 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kelavath-ramesh-583255151/))
+🔗 Connect with me:  <a href="https://www.linkedin.com/in/kelavath-ramesh-583255151/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
