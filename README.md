@@ -1,10 +1,10 @@
 - 👋 Hi, I'm Ramesh Kelavath  
 
-- 🎓 MSc Data Science Student @ University of Hertfordshire, UK  
+- 🎓 MSc Data Science Student @ University of Hertfordshire, UK
 
-- 💼 Ex-Associate Software Engineer @ Accenture | Microsoft Certified: Azure AI-900  
+- 💼 Ex-Custom Software Engineering Associate @ Accenture | Microsoft Certified: Azure AI-900  
 
-- 🚀 Aspiring **Machine Learning Engineer | Data Scientist | Data Engineer**  
+- 🚀 Aspiring **Machine Learning Engineer | Data Scientist | Data Engineer | Data Analyst**  
 
 - 🛠️ Skilled in **Python | SQL | Statistics | Machine Learning | Deep Learning | Time Series Forecasting**  
 
