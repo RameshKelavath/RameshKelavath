@@ -1,18 +1,14 @@
-- 👋 Hi, I'm Ramesh Kelavath  
+Hi, I'm Ramesh Kelavath
 
-- 🎓 MSc Data Science Student @ University of Hertfordshire, UK
+Data Engineer with 2+ years of hands-on experience in SQL, Python, PySpark, Azure Data Factory, Azure Databricks, Azure Synapse Analytics, and cloud-based data projects.
 
-- 💼 Ex-Custom Software Engineering Associate @ Accenture | Microsoft Certified: Azure AI-900  
+I work on building ETL/ELT pipelines, transforming raw data into structured datasets, implementing data quality checks, and preparing reporting-ready data for analytics teams.
 
-- 🚀 Aspiring **Machine Learning Engineer | Data Scientist | Data Engineer | Data Analyst**  
+Tech Stack:
+Azure Data Factory | Azure Databricks | PySpark | SQL | Azure Synapse Analytics | ADLS Gen2 | Delta Lake | Airflow | BigQuery | Git
 
-- 🛠️ Skilled in **Python | SQL | Statistics | Machine Learning | Deep Learning | Time Series Forecasting**  
+Currently seeking Junior Data Engineer, Graduate Data Engineer, Azure Data Engineer, and Cloud Data Engineer roles in the UK.
 
-- 👀 Check out my **[Data Portfolio](https://rameshkelavath.github.io/)** — explore my projects, skills, and contact info  
-
-- 🔍 Open to collaborations in **Data Science & Machine Learning** and always eager to learn new technologies  
-
-- ⚡ Passionate about building data-driven solutions, from pipelines to predictive models  
 
 📫 Reach me at: **rameshkelavath5@gmail.com**  
 
