@@ -8,13 +8,9 @@ Hi, I'm Ramesh Kelavath
 
 🛠️ Tech Stack: Azure Data Factory | Azure Databricks | PySpark | SQL | Azure Synapse Analytics | ADLS Gen2 | Delta Lake | Airflow | BigQuery | Git
 
-📊 Interested in building scalable data pipelines, cloud data platforms, data warehouses, and analytics-ready datasets
-
 🔍 Actively seeking Junior Data Engineer, Graduate Data Engineer, Azure Data Engineer, and Cloud Data Engineer roles in the UK
 
-📫 Reach me at: rameshkelavath5@gmail.com
 
-🔗 Connect with me: LinkedIn
 
 📫 Reach me at: **rameshkelavath5@gmail.com**  
 
